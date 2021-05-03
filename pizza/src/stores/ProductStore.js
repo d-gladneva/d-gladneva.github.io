@@ -6,22 +6,10 @@ class ProductStore {
   _products;
 
   loadProducts = () => {
-    const url = `http://sole-pizza.cxz.su/api/products`;
-    this._products = fetch(url, {
-      headers: {
-        Accept: "application/json",
-      },
-    })
+    const url = `${ROUTES.host}/${ROUTES.models}/products.json`;
+    this._products = fetch(url)
       .then((data) => data.json())
-      .then((products) => ({
-        head: {
-          total: 4,
-        },
-        list: [...products],
-      }))
-      .catch((error) => {
-        console.log(error);
-      });
+      .then((products) => products);
   };
 
   getProducts = (categoryId) => {
@@ -29,7 +17,7 @@ class ProductStore {
     return this._products.then(({ head, list }) => {
       return {
         head,
-        list: list.filter((product) => product.category.id === categoryId),
+        list: list.filter((product) => product.category.id === categoryId)
       };
     });
   };

@@ -2,14 +2,340 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/d-gladneva.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pz" beforeDir="false" afterPath="$PROJECT_DIR$/pz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pz/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/controllers/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/models/banners.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/models/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/models/products.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/icons/facebook_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/icons/insta_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/icons/twitter_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/icons/youtube_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/banners/slide1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/banners/slide2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/banners/slide3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/left-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/phone-alt-solid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/productImageDefault.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/bavarskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/big-filadelphia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/boston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/chetyre-syra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/filadelfia-lux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/filadelfia-s-ogurcom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/filadelfia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/filadelfia_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/gavaiskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/in-yan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/kalifornia-s-losossem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/kalifornya-s-krevetkoi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/kanada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/karolina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/krevetka-plus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/kurica-teriyaki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/losos-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/margarita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/meksika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/meksikanskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/myasnaya-ot-shefa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/myasnoe-assorti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/nejnost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/ovoschnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/pepperoni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/roll-s-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/roll-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/roll-s-ogurtsom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/roll-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/roll-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/salsa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/slivochnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/spice-sushi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/sushi-s-krevetkami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/sushi-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/sushi-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/sushi-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/syrnye-palochki-s-bavarskimi-kolbaskami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/syrnye-palochki-s-bekonom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/tigrovye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/vetchina-i-griby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/zhemchuzhina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/1600x1064/zyplenok-BBQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/bavarskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/big-filadelphia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/boston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/chetyre-syra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/filadelfia-lux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/filadelfia-s-ogurcom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/filadelfia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/filadelfia_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/gavaiskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/in-yan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/kalifornia-s-losossem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/kalifornya-s-krevetkoi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/kanada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/karolina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/krevetka-plus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/kurica-teriyaki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/losos-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/margarita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/meksika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/meksikanskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/myasnaya-ot-shefa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/myasnoe-assorti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/nejnost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/ovoschnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/pepperoni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/roll-s-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/roll-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/roll-s-ogurtsom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/roll-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/roll-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/salsa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/slivochnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/spice-sushi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/sushi-s-krevetkami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/sushi-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/sushi-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/sushi-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/syrnye-palochki-s-bavarskimi-kolbaskami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/syrnye-palochki-s-bekonom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/tigrovye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/vetchina-i-griby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/zhemchuzhina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/224x149/zyplenok-BBQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/bavarskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/big-filadelphia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/boston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/chetyre-syra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/filadelfia-lux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/filadelfia-s-ogurcom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/filadelfia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/filadelfia_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/gavaiskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/in-yan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/kalifornia-s-losossem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/kalifornya-s-krevetkoi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/kanada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/karolina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/krevetka-plus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/kurica-teriyaki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/losos-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/margarita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/meksika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/meksikanskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/myasnaya-ot-shefa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/myasnoe-assorti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/nejnost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/ovoschnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/pepperoni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/roll-s-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/roll-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/roll-s-ogurtsom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/roll-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/roll-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/salsa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/slivochnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/spice-sushi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/sushi-s-krevetkami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/sushi-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/sushi-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/sushi-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/syrnye-palochki-s-bavarskimi-kolbaskami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/syrnye-palochki-s-bekonom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/tigrovye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/vetchina-i-griby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/zhemchuzhina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/products/600x399/zyplenok-BBQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/public/static/images/right-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/cartController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/modalController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/navigationScrollController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/openPopupMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/phoneMenuController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/productController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/sliderController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/smoothScrollFromMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/tooltipController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/controllers/upButtonController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/models/banners.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/models/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/models/categoriesGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/models/products.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/models/productsGenerator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/cart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/modal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/navigation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/order.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/up_button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/icons/facebook_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/icons/insta_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/icons/twitter_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/icons/youtube_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/banners/slide1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/banners/slide2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/banners/slide3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/left-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/phone-alt-solid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/productImageDefault.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/bavarskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/big-filadelphia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/boston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/chetyre-syra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/filadelfia-lux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/filadelfia-s-ogurcom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/filadelfia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/filadelfia_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/gavaiskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/in-yan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/kalifornia-s-losossem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/kalifornya-s-krevetkoi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/kanada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/karolina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/krevetka-plus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/kurica-teriyaki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/losos-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/margarita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/meksika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/meksikanskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/myasnaya-ot-shefa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/myasnoe-assorti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/nejnost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/ovoschnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/pepperoni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/roll-s-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/roll-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/roll-s-ogurtsom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/roll-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/roll-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/salsa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/slivochnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/spice-sushi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/sushi-s-krevetkami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/sushi-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/sushi-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/sushi-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/syrnye-palochki-s-bavarskimi-kolbaskami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/syrnye-palochki-s-bekonom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/tigrovye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/vetchina-i-griby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/zhemchuzhina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/1600x1064/zyplenok-BBQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/bavarskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/big-filadelphia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/boston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/chetyre-syra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/filadelfia-lux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/filadelfia-s-ogurcom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/filadelfia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/filadelfia_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/gavaiskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/in-yan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/kalifornia-s-losossem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/kalifornya-s-krevetkoi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/kanada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/karolina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/krevetka-plus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/kurica-teriyaki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/losos-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/margarita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/meksika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/meksikanskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/myasnaya-ot-shefa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/myasnoe-assorti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/nejnost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/ovoschnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/pepperoni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/roll-s-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/roll-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/roll-s-ogurtsom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/roll-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/roll-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/salsa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/slivochnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/spice-sushi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/sushi-s-krevetkami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/sushi-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/sushi-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/sushi-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/syrnye-palochki-s-bavarskimi-kolbaskami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/syrnye-palochki-s-bekonom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/tigrovye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/vetchina-i-griby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/zhemchuzhina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/224x149/zyplenok-BBQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/bavarskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/big-filadelphia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/boston.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/chetyre-syra.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/filadelfia-lux.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/filadelfia-s-ogurcom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/filadelfia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/filadelfia_classic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/gavaiskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/in-yan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/kalifornia-s-losossem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/kalifornya-s-krevetkoi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/kanada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/karolina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/krevetka-plus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/kurica-teriyaki.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/losos-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/margarita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/meksika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/meksikanskaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/myasnaya-ot-shefa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/myasnoe-assorti.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/nejnost.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/ovoschnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/pepperoni.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/roll-s-avokado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/roll-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/roll-s-ogurtsom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/roll-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/roll-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/salsa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/slivochnaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/spice-sushi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/sushi-s-krevetkami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/sushi-s-lososem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/sushi-s-tuncom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/sushi-s-ugrem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/syrnye-palochki-s-bavarskimi-kolbaskami.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/syrnye-palochki-s-bekonom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/tigrovye.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/vetchina-i-griby.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/zhemchuzhina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/products/600x399/zyplenok-BBQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/static/images/right-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/stores/BannerStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/stores/CartStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/stores/CategoryStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/stores/ProductStore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/src/stores/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/w3.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,21 +347,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pz/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pz" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
@@ -91,22 +407,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620058247892</updated>
-      <workItem from="1620058249915" duration="1452000" />
+      <workItem from="1620058249915" duration="2948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1452000" />
+    <option name="totallyTimeSpent" value="2948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1290" height="686" extended-state="0" />
+    <frame x="-6" y="0" width="1290" height="686" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.44945848" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24187726" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />

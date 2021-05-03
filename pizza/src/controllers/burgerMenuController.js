@@ -1,4 +1,4 @@
-const phone = () => {
+const burger = () => {
   const phoneBody = document.querySelector('#phoneBody');
   let f = false;
   if (document.documentElement.clientWidth < 768) {
@@ -7,6 +7,7 @@ const phone = () => {
       if (!f) {
         target = target.closest('.header__phone_icon');
         if (target && target.classList.contains('header__phone_icon')) {
+          console.log(target);
           phoneBody.style.display = 'block';
           f = true;
         }
@@ -20,8 +21,8 @@ const phone = () => {
   }
 };
 
-phone();
+burger();
 
 window.addEventListener('resize', () => {
-  phone();
+  burger();
 });
