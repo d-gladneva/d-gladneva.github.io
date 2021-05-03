@@ -2,7 +2,20 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Pizza Site</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <title>Sole Pizza - доставка пиццы Район Северный Москва</title>
+    <meta
+      name="description"
+      content="Закажите настоящую итальянскую Sole пиццу - большой выбор натуральных ингредиентов на Ваш выбор и вкусное тесто! Быстрый заказ онлайн и бесплатная доставка."
+    />
+    <meta
+      name="keywords"
+      content="суши заказать пиццу заказ суши доставка пиццы бесплатно круглосуточно"
+    />
     <link rel="stylesheet" href="public/static/css/style.css" />
   </head>
   <body>
@@ -88,21 +101,49 @@
       <!-- Main block -->
       <main class="global-main">
         <div class="main__wrapper" id="mainWrapper">
-          <!-- Slider -->
-          <!--          <div class="slider__wrapper" id="slider">-->
-          <!--            <div class="slider__display" id="sliderDisplay"></div>-->
+          <div id="slider" class="slider">
+            <div class="container">
+              <ul class="slider-content" id="all-progects">
+                <li class="slider-item slider-item-active">
+                  <img
+                    src="src/static/images/banners/slide1.jpg"
+                    alt="portfolio"
+                  />
+                </li>
+                <li class="slider-item">
+                  <img
+                    src="src/static/images/banners/slide2.jpg"
+                    alt="slider"
+                  />
+                </li>
+                <li class="slider-item">
+                  <img
+                    src="src/static/images/banners/slide3.jpg"
+                    alt="slider"
+                  />
+                </li>
+                <a href="#" class="slider-btn prev" id="arrow-left"></a>
+                <a href="#" class="slider-btn next" id="arrow-right"></a>
+                <ul class="slider-dots"></ul>
+              </ul>
+            </div>
+          </div>
 
-          <!--            <button class="slider__button slider__button_left" id="slideLeft">-->
-          <!--              <div class="slider__buttonOverlay"></div>-->
-          <!--              <span class="slider__buttonText">&#10094;</span>-->
-          <!--            </button>-->
-          <!--            <button class="slider__button slider__button_right" id="slideRight">-->
-          <!--              <div class="slider__buttonOverlay"></div>-->
-          <!--              <span class="slider__buttonText">&#10095;</span>-->
-          <!--            </button>-->
-          <!--            <div class="header__sliderDots" id="header__sliderDots"></div>-->
-          <!--          </div>-->
-          <!-- Slider -->
+          <nav class="popup-menu" id="popupMenu">
+            <div><span class="popup-menu__close" id="close">&times;</span></div>
+            <ul>
+              <li class="scroll">
+                <a class="test" the="pizza">Пицца</a>
+              </li>
+              <li class="scroll">
+                <a class="test" the="rolly">Роллы</a>
+              </li>
+              <li class="scroll">
+                <a class="test" the="classicRolly">Классические роллы</a>
+              </li>
+              <li class="scroll"><a class="test" the="sushi">Суши</a></li>
+            </ul>
+          </nav>
 
           <!-- Products -->
           <div id="productsWrapper"></div>

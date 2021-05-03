@@ -92,8 +92,7 @@
         <td class="cart__tableCell">
           <img 
             src="${ROUTES.productImage}/${PRODUCT_IMAGE_SIZE.small}/${
-          product.image
-        }" 
+          product.image}" 
             alt="${product.title}" 
             class="cart__productImage"
           >
@@ -103,8 +102,8 @@
           <div class="counter__wrapper" >
             <button class="counter__button counter__buttonIncrease">+</button>
             <input class="counter__input" type="number" value="${
-              product.count
-            }">
+          product.count
+          }">
             <button class="counter__button counter__buttonDecrease">-</button>
           </div>
         </td>
@@ -185,10 +184,23 @@
             // onBtn();
           }
         }
-        if (elemWork.name === 'name') {
+        if (
+          elemWork.name === 'name' ||
+          elemWork.name === 'surname' ||
+          elemWork.name === 'region' ||
+          elemWork.name === 'city' ||
+          elemWork.name === 'street'
+        ) {
           elemWork.value = elemWork.value.replace(/[^а-яё\s]/gi, '');
         }
-        if (elemWork.name === 'address') {
+        if (
+          elemWork.name === 'house' ||
+          elemWork.name === 'building' ||
+          elemWork.name === 'apartment'
+        ) {
+          elemWork.value = elemWork.value.replace(/[^0-9]/g, '');
+        }
+        if (elemWork.name === 'address' || elemWork.name === 'comment') {
           elemWork.value = elemWork.value.replace(
             /[^а-яА-Я0-9 ,.?!"';:\-\%()\#]/g,
             ''
@@ -202,19 +214,32 @@
       <div><span class="modal__close" id="close">&times;</span></div>
       <form class="cart__form">
          <input class="cart__form_item" name="name" type="text" required placeholder="Ваше имя">
+         <input class="cart__form_item" name="surname" type="text" required placeholder="Ваша фамилия">
+         <input class="cart__form_item" name="email" type="text" required placeholder="Ваш email">
          <input class="cart__form_item" name="phone" type="text" required placeholder="Ваш телефон">
-         <input class="cart__form_item" name="address" type="text" required placeholder="Ваш адрес">
+         <input class="cart__form_item" name="comment" type="text" required placeholder="Ваш комметарий">
+         <div class="order_coord__text">
+         <input class="coord_text__item" name="region" type="text" required placeholder="Регион">
+         <input class="coord_text__item" name="city" type="text" required placeholder="Город">
+         </div>
+         <input class="cart__form_item" name="street" type="text" required placeholder="Улица">
+         <div class="order_coord__numbers">
+         <input class="coord_numbers__item" name="house" type="text" required placeholder="Дом">
+         <input class="coord_numbers__item" name="building" type="text" required placeholder="Строение">
+         <input class="coord_numbers__item" name="apartment" type="text" required placeholder="Квартира">
+         </div>
       <button type="submit" class="global-buttonPrimary cart__buyButton cart__buyButton_order">Оформить заказ</button>
       </form>
       `;
 
       // отправка формы
 
+      const statusMessage = document.createElement('div');
+
       const sendForm = (elemWork) => {
         const errorMessage = 'Что-то пошло не так...';
         const loadMessage = 'Загрузка...';
         const succesMessage = 'Спасибо! Мы скоро с Вами свяжемся!';
-        const statusMessage = document.createElement('div');
 
         statusMessage.style.cssText = `
           font-size: 1.5 rem;
@@ -228,23 +253,41 @@
 
         if (inputPhone.value !== '' || inputName.value !== '') {
           elemWork.appendChild(statusMessage);
+
           statusMessage.textContent = loadMessage;
 
-          const formData = new FormData(elemWork);
-          let body = {};
-          formData.forEach((val, key) => {
-            body[key] = val;
-          });
+          setTimeout(() => {
+            statusMessage.delete();
+          }, 1000);
+
+          const body = {
+            name: document.querySelector('input[name="name"]').value,
+            surname: document.querySelector('input[name="surname"]').value,
+            email: document.querySelector('input[name="email"]').value,
+            phone: document.querySelector('input[name="phone"]').value,
+            comment: document.querySelector('input[name="comment"]').value,
+            address: {
+              city: document.querySelector('input[name="city"]').value,
+              street: document.querySelector('input[name="street"]').value,
+              house: document.querySelector('input[name="house"]').value,
+              building: document.querySelector('input[name="building"]').value,
+              region: document.querySelector('input[name="region"]').value,
+              apartment: document.querySelector('input[name="apartment"]')
+                .value
+            }
+          };
 
           postData(body)
             .then((response) => {
               if (response.ok !== true) {
                 throw new Error('status network not 200');
               }
+              setTimeout(() => {
+                statusMessage.delete();
+              }, 1000);
               statusMessage.textContent = succesMessage;
-              if (statusMessage) {
-                statusMessage.nextElementSibling.remove();
-              }
+              console.log(statusMessage);
+
               for (let i = 0; i < inputFormElems.length; i++) {
                 inputFormElems[i].value = '';
               }
@@ -253,14 +296,16 @@
               }, 5000);
             })
             .catch((error) => {
-              if (statusMessage && statusMessage.textContent === errorMessage) {
-                statusMessage.nextElementSibling.remove();
+              if (statusMessage.previousSibling) {
+                return;
               }
+
               statusMessage.textContent = errorMessage;
+              console.log(statusMessage.previousSibling);
 
               setTimeout(() => {
                 statusMessage.delete();
-              }, 5000);
+              }, 1000);
               console.log(error);
             });
         } else {
@@ -272,7 +317,7 @@
             if (
               inputFormElems[i].nextElementSibling &&
               inputFormElems[i].nextElementSibling.textContent ===
-                'Заполните поле!'
+              'Заполните поле!'
             ) {
               return;
             }
@@ -284,12 +329,19 @@
       };
 
       const postData = (body) => {
-        return fetch('./server.php', {
+        console.log(cartStore.getCartProducts());
+        return fetch('http://sole-pizza.cxz.su/api/orders', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
           },
-          body: JSON.stringify(body)
+          body: JSON.stringify({
+            ...body,
+            items: cartStore.getCartProducts().map((i) => ({
+              product: `/api/products/${i.id}`,
+              quantity: i.count
+            }))
+          })
         });
       };
 
@@ -300,7 +352,6 @@
 
       document.body.addEventListener('submit', (event) => {
         event.preventDefault();
-        console.log(1);
         sendForm(event.target);
       });
 
@@ -312,22 +363,18 @@
         document.addEventListener('click', (e) => {
           let target = e.target;
           if (target && target.classList.contains('cart__buyButton')) {
-            myOrder.style.display = 'block';
+            myOrder.style.display = 'flex';
             orderIsOpen = true;
           } else {
-            if (
-              target.classList.contains('cart__form') ||
-              target.localName === 'input' ||
-              target.classList.contains('error')
-            ) {
-              return;
-            }
-            if (
-              !target.classList.contains('order__content') ||
-              target.classList.contains('modal__close')
-            ) {
+            // if (
+            //   target.classList.contains('cart__form') ||
+            //   target.localName === 'input' ||
+            //   target === statusMessage
+            // ) {
+            //   return;
+            // }
+            if (target.classList.contains('modal__close')) {
               myOrder.style.display = 'none';
-              console.dir(target);
               orderIsOpen = false;
             }
           }
@@ -356,3 +403,7 @@
   cartButton.addEventListener('click', handleCartBodyClick);
   root.addEventListener('click', handleRootClick);
 }
+
+const div = document.querySelector('div');
+
+console.log(div);

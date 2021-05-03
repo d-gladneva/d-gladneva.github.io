@@ -32,48 +32,47 @@
     const hasInCart = cartStore.checkProduct(product.id);
 
     return `
-      <div class="products__productWrapper" id="product${
-        product.id
+<div class="products__productWrapper" id="product${
+      product.id
       }" product-id="${product.id}">
         <div class="products__product">
           <img src="${ROUTES.productImage}/${PRODUCT_IMAGE_SIZE.small}/${
       product.image
-    }" data-img="${product.image}">
+      }" data-img="${product.image}">
           <p class="global-caption products__productCaption">${
-            product.title
-          }</p>
+      product.title
+      }</p>
           <p class="products__productDescription" data-tooltip="${
-            product.description
-          }">${product.description}</p>
+      product.description
+      }">${product.description}</p>
           <div class="products__boxCounterPrice" price="${product.price}">
             <div class="products__boxCounter">
               <button class="counter__button counter__buttonIncrease">+</button>
               <input class="counter__input" type="number" value="${product.count ||
-                1}">
+    1}">
               <button class="counter__button counter__buttonDecrease">-</button>
             </div>
             <div class="products__boxPrice">
               <p class="products__productPrice"><span class="products__priceSum">
                 ${cartStore.calculateProductSum(
-                  product.price,
-                  product.count || 1
-                )}</span> &#8381;
+      product.price,
+      product.count || 1
+    )}</span> &#8381;
               </p>
             </div>
           </div>
           <div class="products__buyBox">
             <button class="global-buttonPrimary global-buttonSecondary" product-id="${
-              product.id
-            }">Подробнее</button>
-            ${
-              hasInCart
-                ? `<span>Товар в&nbsp;корзине</span>`
-                : '<button class="global-buttonPrimary">В корзину</button>'
-            }
+      product.id
+      }">Подробнее</button>
+            ${hasInCart
+      ? `<span>Товар в&nbsp;корзине</span>`
+      : '<button class="global-buttonPrimary">В корзину</button>'
+      }
+            </div>
           </div>
         </div>
-      </div>
-    `;
+`;
   };
 
   const productsWrapper = document.getElementById('productsWrapper');
