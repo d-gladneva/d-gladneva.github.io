@@ -12,7 +12,7 @@
           <h2 class="caption modal__caption">${productData.title}</h2>
           <img src="${ROUTES.productImage}/${PRODUCT_IMAGE_SIZE.normal}/${
       productData.image
-      }
+    }
 " class="modal__image"/>
           <div class="modal__infoBox">
               <p class="modal__description">${productData.description}</p>

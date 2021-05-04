@@ -10,7 +10,6 @@ class ProductStore {
     this._products = fetch(url)
       .then((data) => data.json())
       .then((products) => products);
-
   };
 
   getProducts = (categoryId) => {
