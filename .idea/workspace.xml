@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pizza/public/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/pizza/public/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pizza/src/static/css/cart.css" beforeDir="false" afterPath="$PROJECT_DIR$/pizza/src/static/css/cart.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-9" />
     <option name="width" value="1935" />
     <option name="height" value="1029" />
@@ -89,15 +88,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620058247892</updated>
-      <workItem from="1620058249915" duration="10655000" />
+      <workItem from="1620058249915" duration="11522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10655000" />
+    <option name="totallyTimeSpent" value="11522000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1290" height="686" extended-state="0" />
+    <frame x="-6" y="0" width="1290" height="686" extended-state="1" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3830806" />
