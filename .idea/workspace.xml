@@ -14,7 +14,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pizza/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -34,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="width" value="1935" />
     <option name="height" value="1029" />
@@ -51,6 +61,11 @@
             <path>
               <item name="d-gladneva.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="d-gladneva.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d-gladneva.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d-gladneva.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="pizza" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -88,15 +103,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620058247892</updated>
-      <workItem from="1620058249915" duration="11522000" />
+      <workItem from="1620058249915" duration="11726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11522000" />
+    <option name="totallyTimeSpent" value="11726000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1290" height="686" extended-state="1" />
+    <frame x="-6" y="0" width="1290" height="686" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3830806" />
@@ -138,13 +153,6 @@
     <entry file="file://$PROJECT_DIR$/pizza/src/stores/CartStore.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pizza/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pizza/src/stores/CategoryStore.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
@@ -169,6 +177,13 @@
     <entry file="file://$PROJECT_DIR$/pizza/src/static/css/order.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pizza/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
       </provider>
     </entry>
   </component>
