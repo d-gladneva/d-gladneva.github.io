@@ -3,185 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/Lora-Italic-VariableFont_wght.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/Lora-VariableFont_wght.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/static/Lora-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/static/Lora-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/static/Lora-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/static/Lora-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/static/Lora-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/static/Lora-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/static/Lora-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/Lora/static/Lora-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Black.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Black.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-BlackItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-BlackItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-BlackItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-BoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-BoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-BoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-DemiBold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-DemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-DemiBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-DemiBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-DemiBoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-DemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-DemiBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-DemiBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-ExtraBold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-ExtraBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-ExtraBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-ExtraBoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-ExtraBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-ExtraBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-LightItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-LightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro-LightItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaPro.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Black.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Black.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-BlackItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-BlackItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-BlackItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-BoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-BoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-BoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-DemiBold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-DemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-DemiBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-DemiBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-DemiBoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-DemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-DemiBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-DemiBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraBold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraBoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraLight.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraLight.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraLightItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraLightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-ExtraLightItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-LightItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-LightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro-LightItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/LeksaSansPro.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/fonts/font/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/1_HEADER/1_HEADER_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/1_HEADER/1_HEADER_head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/1_HEADER/1_HEADER_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_bg_Isolda.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_bg_Lleyn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_bg_Pamela.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_fraction_Isolda.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_fraction_Lleyn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_fraction_Pamela.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Isolda_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Isolda_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Isolda_inactive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Lleyn_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Lleyn_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Lleyn_inactive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Pamela_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Pamela_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_icon_Pamela_inactive.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_name_Isolda.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_name_Lleyn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_name_Pamela.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_skill_Isolda_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_skill_Isolda_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_skill_Lleyn_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_skill_Lleyn_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_skill_Pamela_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/2_CHARS/2_CHARS_skill_Pamela_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/3_VIDEO/3_VIDEO_head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/3_VIDEO/3_VIDEO_icon_play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/3_VIDEO/3_VIDEO_shadow_top.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/3_VIDEO/bg.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/3_VIDEO/bg.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/4_MOUNT/4_MOUNT_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/4_MOUNT/4_MOUNT_head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/4_MOUNT/4_MOUNT_rating_150000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/4_MOUNT/4_MOUNT_rating_30000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_BG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_fb_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_fb_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_fb_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_mail_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_mail_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_mail_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_ok_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_ok_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_ok_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_vk_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_vk_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_btn_vk_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_head.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/5_FOOTER/5_FOOTER_logo_101xp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/BTN_play_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/BTN_play_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/BTN_play_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/BTN_scroll_active.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/BTN_scroll_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/img/BTN_scroll_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/slider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/promo/style.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -223,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-9" />
     <option name="width" value="1935" />
     <option name="height" value="1029" />
@@ -245,6 +66,11 @@
               <item name="d-gladneva.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="d-gladneva.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="pizza" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d-gladneva.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d-gladneva.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="promo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,12 +110,12 @@
       <updated>1620058247892</updated>
       <workItem from="1620058249915" duration="15057000" />
       <workItem from="1620921120907" duration="7000" />
-      <workItem from="1621767638315" duration="1943000" />
+      <workItem from="1621767638315" duration="2461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17007000" />
+    <option name="totallyTimeSpent" value="17525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1290" height="686" extended-state="1" />
