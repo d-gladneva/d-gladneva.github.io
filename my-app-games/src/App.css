@@ -1,0 +1,14 @@
+.app-wrapper {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.app-wrapper-content {
+    background: #F9F5FF;
+}
+
+@media screen and (max-width: 320px) {
+    .app-wrapper {
+        overflow: hidden;
+    }
+}

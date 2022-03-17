@@ -1,0 +1,35 @@
+.filtresWrap {
+    background: #F9F5FF;
+}
+
+.filtres {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 98%;
+    margin: auto;
+}
+
+.filtres div {
+    padding: 10px 16px;
+    background: #F4EBFF;
+    border-radius: 8px;
+    color: #7F56D9;
+    margin: 77px 8px 40px 0;
+}
+
+.filtres div:hover {
+    background: #E9D7FE;
+    cursor: default;
+}
+
+
+.filtres a {
+
+}
+
+@media screen and (max-width: 320px) {
+    .filtres div {
+        margin: 134px 8px 11px 0;
+    }
+}

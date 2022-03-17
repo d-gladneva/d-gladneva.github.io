@@ -1,0 +1,56 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.statusImg {
+    width: 100%;
+}
+
+.buttonWrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 238px;
+    height: 451px;
+    background: #FFFFFF;
+    border: 2px dashed #98A2B3;
+    border-radius: 12px;
+    margin: 44px 16px;
+    padding: 12px;
+}
+
+.buttonText {
+    font-weight: 400;
+    font-size: 14px;
+    color: #98A2B3;
+    text-align: center;
+}
+
+.button {
+    width: 192px;
+    height: 44px;
+    background: #7F56D9;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: none;
+    color: #fff;
+}
+
+.button:hover {
+    background: #6941C6;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 320px) {
+    .buttonWrap {
+        height: 238px;
+    }
+}

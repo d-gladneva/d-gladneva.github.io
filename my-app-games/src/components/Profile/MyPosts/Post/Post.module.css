@@ -1,0 +1,82 @@
+.item {
+    color: green;
+    display: flex;
+    flex-direction: column;
+    width: 238px;
+    height: 451px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    margin: 44px 16px;
+    padding: 12px;
+}
+
+@media screen and (max-width: 768px) {
+    .item {
+        width: 290px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .item {
+        width: 260px;
+        margin: 22px 16px;
+    }
+}
+
+.item div {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.item:hover {
+    box-shadow: 0px 2px 10px -2px #333;
+}
+
+.item:hover .card{
+    transform: scale(1.1);
+}
+
+.item card:hover {
+}
+
+
+.card {
+    width: 100%;
+    transition: 0.5s;
+}
+
+.status {
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.statusImg {
+    width: 50%;
+    margin: 22px 0 12px;
+}
+
+.raiting {
+    width: 123%;
+    margin: 22px 0 12px;
+}
+
+.price {
+    width: 100%;
+    margin: 22px 0 12px;
+}
+
+.name {
+    font-weight: 600;
+    font-size: 18px;
+    color: #101828;
+}
+
+.desc {
+    font-weight: 400;
+    font-size: 14px;
+    color: #98A2B3;
+}
+
+.count {
+
+}

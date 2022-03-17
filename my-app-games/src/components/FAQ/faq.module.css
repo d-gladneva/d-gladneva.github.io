@@ -1,0 +1,23 @@
+.faq {
+    background: #F9F5FF;
+    padding: 50px 20px;
+}
+
+.faqTitle {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #101828;
+}
+
+.faqText {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #667085;
+    margin: 20px 44px;
+}

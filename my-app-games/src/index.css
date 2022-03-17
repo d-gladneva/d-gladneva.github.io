@@ -1,0 +1,18 @@
+h1, p {
+  margin: unset;
+}
+
+body {
+  font-family: Inter, sans-serif;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/inter/Inter-Regular.woff2")
+  format("woff2"),
+  url("/inter/Inter-Regular.woff")
+  format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}

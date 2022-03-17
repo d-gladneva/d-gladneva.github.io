@@ -1,0 +1,29 @@
+.header {
+    position: relative;
+    background: #7F56D9;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    margin: 8px;
+    color: #fff;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.header img {
+    width: 9px;
+    position: absolute;
+}
+
+.rightArrHeader {
+    right: 14px;
+}
+
+.leftArrHeader {
+    left: 14px;
+}
