@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="" />
+    <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/css/main.eaf3a915.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/css/main.eaf3a915.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/js/2.3755b049.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/js/2.3755b049.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/js/2.3755b049.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/js/main.697e035b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/js/main.697e035b.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/js/runtime-main.f8c5b4be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/js/runtime-main.f8c5b4be.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/banner.32477050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/banner320.1f4a2b83.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/banner768.adb23238.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card1.8dde015d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card10.b4367614.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card11.544624e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card12.526ab31f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card13.a8cdb3c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card14.c2676aca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card2.8560d78c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card3.7e5a8714.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card4.0925cf3d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card5.02ffa246.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card6.a120dcb5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card7.2277c8ed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card8.c2676aca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/card9.c4bbe8b6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/icon1.de66e128.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/icon2.7dbb1be7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/icon3.05ef7cf0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/leftArr.c25e1e31.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/leftArrHeader.cb21b7bd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/logo.b88f7f05.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/pin.5aebcda9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/price1.d802948e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/rating1.c2338790.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/rightArr.151dbac7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/rightArrHeader.1d55acc3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/search.a64e1acb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/status1.261004c0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/status2.5d0e45ff.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/status3.eb3e0bbe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/media/status4.961a4aab.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +96,17 @@
       <workItem from="1627741301381" duration="125000" />
       <workItem from="1647614695229" duration="615000" />
       <workItem from="1647631163150" duration="1231000" />
-      <workItem from="1647635219055" duration="292000" />
+      <workItem from="1647635219055" duration="847000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1647635479384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1647635479384" />
   </component>
 </project>
