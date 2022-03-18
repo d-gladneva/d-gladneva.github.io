@@ -26,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react/games" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -52,6 +52,7 @@
       <workItem from="1627741301381" duration="125000" />
       <workItem from="1647614695229" duration="615000" />
       <workItem from="1647631163150" duration="1231000" />
+      <workItem from="1647635219055" duration="292000" />
     </task>
     <servers />
   </component>
