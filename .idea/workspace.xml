@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="" />
+    <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/games/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/games/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +54,7 @@
       <workItem from="1627741301381" duration="125000" />
       <workItem from="1647614695229" duration="615000" />
       <workItem from="1647631163150" duration="1231000" />
-      <workItem from="1647635219055" duration="2101000" />
+      <workItem from="1647635219055" duration="2172000" />
     </task>
     <servers />
   </component>
@@ -64,5 +66,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1647635479384" />
+    <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1647641036816">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="73" width="587" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1647641036816" />
   </component>
 </project>
