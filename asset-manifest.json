@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.784b590e.chunk.css",
-    "main.js": "/static/js/main.5eb8a0d3.chunk.js",
-    "main.js.map": "/static/js/main.5eb8a0d3.chunk.js.map",
+    "main.css": "/static/css/main.d88f4dd6.chunk.css",
+    "main.js": "/static/js/main.d90990aa.chunk.js",
+    "main.js.map": "/static/js/main.d90990aa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f8c5b4be.js",
     "runtime-main.js.map": "/static/js/runtime-main.f8c5b4be.js.map",
-    "static/css/2.3d1c7d4f.chunk.css": "/static/css/2.3d1c7d4f.chunk.css",
-    "static/js/2.787b8c0c.chunk.js": "/static/js/2.787b8c0c.chunk.js",
-    "static/js/2.787b8c0c.chunk.js.map": "/static/js/2.787b8c0c.chunk.js.map",
+    "static/css/2.40aa408c.chunk.css": "/static/css/2.40aa408c.chunk.css",
+    "static/js/2.4228780a.chunk.js": "/static/js/2.4228780a.chunk.js",
+    "static/js/2.4228780a.chunk.js.map": "/static/js/2.4228780a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cee2e09292652245830dd1b27ef1aa0e.js": "/precache-manifest.cee2e09292652245830dd1b27ef1aa0e.js",
+    "precache-manifest.d448fe0b3ade9a2f0300627a29facf52.js": "/precache-manifest.d448fe0b3ade9a2f0300627a29facf52.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.3d1c7d4f.chunk.css.map": "/static/css/2.3d1c7d4f.chunk.css.map",
-    "static/css/main.784b590e.chunk.css.map": "/static/css/main.784b590e.chunk.css.map",
-    "static/js/2.787b8c0c.chunk.js.LICENSE.txt": "/static/js/2.787b8c0c.chunk.js.LICENSE.txt",
-    "static/media/Swiper.css": "/static/media/bg.eee5f987.png",
+    "static/css/2.40aa408c.chunk.css.map": "/static/css/2.40aa408c.chunk.css.map",
+    "static/css/main.d88f4dd6.chunk.css.map": "/static/css/main.d88f4dd6.chunk.css.map",
+    "static/js/2.4228780a.chunk.js.LICENSE.txt": "/static/js/2.4228780a.chunk.js.LICENSE.txt",
+    "static/media/Swiper.css": "/static/media/arrow_right.68928a68.svg",
+    "static/media/App.css": "/static/media/bg.eee5f987.png",
     "static/media/TextInput.css": "/static/media/vector.2b9f73d8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f8c5b4be.js",
-    "static/css/2.3d1c7d4f.chunk.css",
-    "static/js/2.787b8c0c.chunk.js",
-    "static/css/main.784b590e.chunk.css",
-    "static/js/main.5eb8a0d3.chunk.js"
+    "static/css/2.40aa408c.chunk.css",
+    "static/js/2.4228780a.chunk.js",
+    "static/css/main.d88f4dd6.chunk.css",
+    "static/js/main.d90990aa.chunk.js"
   ]
 }
