@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="" />
+    <list default="true" id="43686eee-95c4-4494-a12d-6a1393a58c6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/w3.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pizza" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vzFKW5bLYV2x1nUoyefQPBmJqQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="//wsl$/Ubuntu-20.04/home/qwerty/101xp/landings-2.0" />
+    <property name="last_opened_file_path" value="C:/pz" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -47,6 +51,7 @@
       <workItem from="1647614695229" duration="615000" />
       <workItem from="1647631163150" duration="1231000" />
       <workItem from="1647635219055" duration="4811000" />
+      <workItem from="1654709811078" duration="366000" />
     </task>
     <servers />
   </component>
@@ -54,10 +59,11 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1647791076213">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="449" y="103" key="FileChooserDialogImpl" timestamp="1654710178666">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1647791076213" />
+    <state x="449" y="103" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1654710178666" />
     <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1647641036816">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
